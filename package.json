@@ -1,8 +1,8 @@
 {
   "name": "react-chat-comp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy integration react chat component ",
-  "main": "index.js",
+  "main": "build/ReactChat.js",
   "scripts": {
     "build": "babel src --out-dir build"
   },

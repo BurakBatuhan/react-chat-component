@@ -1,4 +1,4 @@
-# React-chat-component 
+# React-chats 
 
 
 react-chat-admin, easy integration and  beatiful custom component
@@ -11,10 +11,10 @@ react-chat-admin, easy integration and  beatiful custom component
 
 ## Installion
 
- ` npm i react-chat-component  ` or ` yarn i react-chat-component`
+ ` npm i react-chats  ` or ` yarn i react-chats`
 
 ## Css Initial 
-` import 'react-chat-component/chat.css' `
+` import 'react-chats/chat.css' `
 ## Required Props 
 
 | Name | Type  | Description |Example 

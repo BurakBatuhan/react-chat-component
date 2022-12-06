@@ -1,0 +1,26 @@
+{
+  "name": "react-chat-component",
+  "version": "1.0.0",
+  "description": "Easy integration react chat component ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurakBatuhan/react-chat-component.git"
+  },
+  "keywords": [
+    "react-chat-component",
+    "react-chat",
+    "chat",
+    "react-admin-chat",
+    "admin-chat"
+  ],
+  "author": "Burak Batuhan Erol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurakBatuhan/react-chat-component/issues"
+  },
+  "homepage": "https://github.com/BurakBatuhan/react-chat-component#readme"
+}

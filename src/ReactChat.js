@@ -8,8 +8,6 @@ import React, {
 import InfiniteScroll from "react-infinite-scroll-component";
 import PropTypes from "prop-types";
 
-import "./index.css";
-
 const imageComponent = (url, className, icon) => {
   if (url == "" || url == null || url == undefined) {
     return <img className={className} src={icon} alt="IMAGE" />;

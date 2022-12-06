@@ -1,6 +1,5 @@
 # React-chat-component 
 
-![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
 
 react-chat-admin, easy integration and  beatiful custom component
 
@@ -14,7 +13,8 @@ react-chat-admin, easy integration and  beatiful custom component
 
  ` npm i react-chat-component  ` or ` yarn i react-chat-component`
 
-
+## Css Initial 
+` import 'react-chat-component/chat.css' `
 ## Required Props 
 
 | Name | Type  | Description |Example 
